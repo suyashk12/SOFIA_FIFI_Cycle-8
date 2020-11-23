@@ -4,4 +4,4 @@ These are analysis scripts written for analyzing IFU datacubes obtained through 
 
 2. Wavelength_Profile_Central.ipynb - this creates a spectral density plot against wavelength for a central n_x x n_y spaxel^2 window (user specified) of the galaxy
 
-3. NGC_5253_[OIII]/[NIII].ipynb - this is an analysis pipeline that ultimately computes the flux values of the respective lines from the observed spectrum
+3. x_[y].ipynb - this is an analysis pipeline that computes the flux value of line "y" in its observed spectrum from galaxy "x"
